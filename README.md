@@ -1,6 +1,7 @@
 # OpenCode Discord Bot
 
 This is a Discord bot that connects to OpenCode running in server mode.
+I really don't get why everyone is so excited about Clawdbot/Moltbot. Opencode one-shot this bot in 1 minute. 
 If you really want to burn some tokens or just wipe your hard drive clean. You don't need Clawdbot/Moltbot.
 This should take you less than 5 minutes to setup. 
 ## Setup
