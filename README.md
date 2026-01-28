@@ -1,7 +1,8 @@
 # OpenCode Discord Bot
 
-A Discord bot that connects to OpenCode running in server mode.
-
+This is a Discord bot that connects to OpenCode running in server mode.
+If you really want to burn some tokens or just wipe your hard drive clean. You don't need Clawdbot/Moltbot.
+This should take you less than 5 minutes to setup. 
 ## Setup
 
 ### 1. Start OpenCode Server
